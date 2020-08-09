@@ -1,2 +1,2 @@
 node_modules
-scr/database/*.sqlite
+src/database/*.sqlite
